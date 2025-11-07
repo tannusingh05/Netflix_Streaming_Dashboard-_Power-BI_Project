@@ -122,26 +122,11 @@ It provides a **clear, data-driven picture** of how Netflix operates globally, e
 ### 🎥 Show what the dashboard looks like 👇  
 
 <p align="center">
-  <img src="https://github.com/YourUsername/Netflix-Dashboard/blob/main/netflix_dashboard_preview.png" width="900" alt="Netflix Dashboard Preview">
+  <img src="https://github.com/tannusingh05/Netflix_Streaming_Dashboard-_Power-BI_Project/blob/main/Snapshort_netflix_dashbord.jpg" width="900" alt="Netflix Dashboard Preview">
 </p>
 
 ---
 
-
 ---
 
-## 📚 References  
-
-- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
-- [Kaggle: Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-- [DAX Function Reference](https://learn.microsoft.com/en-us/dax/dax-function-reference/)  
-
----
-
-### 🏷️ Tags  
-`#PowerBI` `#DataAnalysis` `#NetflixDashboard` `#DataVisualization` `#PortfolioProject`
-
----
-
-© 2025 | Created with ❤️ by **Tannu Singh**
 
