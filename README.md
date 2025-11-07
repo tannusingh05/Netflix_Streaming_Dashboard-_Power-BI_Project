@@ -1,6 +1,6 @@
 # 🎬 Netflix Streaming Data Analysis Dashboard
 
-### 📊 Power BI | Data Visualization | Data Analysis | Business Insights  
+
 
 This interactive **Power BI Dashboard** explores Netflix’s vast streaming data — uncovering insights about **ratings, release trends, content duration, and global content distribution** across more than 39 countries.  
 
@@ -67,7 +67,7 @@ The dataset was cleaned and visualized in Power BI to identify:
 | **Power Query** | Data Cleaning, Transformation, and Preparation |
 | **DAX (Data Analysis Expressions)** | Measures, KPIs, and Conditional Calculations |
 | **Excel / CSV** | Raw Data Management and Preprocessing |
-| **MySQL (optional)** | Data Structuring for Relational Insights |
+
 
 ---
 
@@ -106,7 +106,7 @@ The dataset includes:
 ✅ Learned advanced **data modeling** and **DAX implementation**.  
 ✅ Enhanced storytelling using data visualization.  
 ✅ Experienced full **ETL (Extract, Transform, Load)** pipeline from dataset to insights.  
-✅ Built a visually appealing report suitable for a **data analytics portfolio project**.  
+ 
 
 ---
 
