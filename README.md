@@ -1,10 +1,10 @@
-🎬 Netflix Streaming Data Analysis (Power BI Project)
+#🎬 Netflix Streaming Data Analysis (Power BI Project)
 
-📌 Objective
+##📌 Objective
 
 To explore and analyze Netflix streaming data using Power BI — focusing on content ratings, release trends, countries, and durations — to uncover global content distribution patterns and viewer preferences.
 
-🧰 Tools & Technologies
+###🧰 Tools & Technologies
 
 Power BI – Data visualization and dashboard creation
 
@@ -12,7 +12,7 @@ Excel / CSV – Data cleaning and preprocessing
 
 DAX – Calculated measures and relationships
 
-📊 Dashboard Overview
+###📊 Dashboard Overview
 
 The Power BI dashboard contains multiple interactive visuals to analyze the dataset:
 
@@ -28,7 +28,7 @@ Section	Description
 
 5️⃣ Country-wise Release Insights	Visualizes top countries like the US, India, and Turkey by total releases
 
-🌍 Key Insights
+###🌍 Key Insights
 
 TV-MA and TV-14 are the most common content ratings globally.
 
@@ -38,7 +38,7 @@ Content releases surged sharply after 2015, marking Netflix’s global expansion
 
 Over 39 countries contribute to Netflix’s catalog, showing strong international diversity.
 
-🧾 Dataset Information
+###🧾 Dataset Information
 
 Source: Netflix Titles Dataset (Kaggle / Open Data)
 
@@ -46,7 +46,7 @@ Rows: ~8,000+ titles
 
 Columns: Title, Country, Rating, Release Year, Duration, Type
 
-🧠 Learnings
+###🧠 Learnings
 
 Designed and formatted a professional Power BI dashboard.
 
@@ -56,10 +56,13 @@ Applied DAX formulas for KPIs and conditional formatting.
 
 Gained hands-on experience in storytelling with data.
 
-🏁 Outcome
+###🏁 Outcome
 
 This project demonstrates how Power BI can transform raw Netflix data into meaningful business insights — identifying top content regions, popular ratings, and yearly production trends.
 
-📷 Dashboard Preview
+ 
+## 🖼️ Dashboard Preview
 
-https://github.com/tannusingh05/Netflix_Streaming_Dashboard-_Power-BI_Project/blob/main/Snapshort_netflix_dashbord.jpg 
+Show what the dashboard looks like.  
+![Netflix Dashboard Preview](https://github.com/TannuSingh/Netflix-Streaming-Analysis/blob/main/netflix_dashboard_preview.png)
+
