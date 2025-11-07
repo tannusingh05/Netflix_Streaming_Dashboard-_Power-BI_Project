@@ -1,4 +1,5 @@
 🎬 Netflix Streaming Data Analysis (Power BI Project)
+
 📌 Objective
 
 To explore and analyze Netflix streaming data using Power BI — focusing on content ratings, release trends, countries, and durations — to uncover global content distribution patterns and viewer preferences.
@@ -16,11 +17,17 @@ DAX – Calculated measures and relationships
 The Power BI dashboard contains multiple interactive visuals to analyze the dataset:
 
 Section	Description
+
 1️⃣ Rating vs Release Year	Displays the total content count by rating category (TV-MA, TV-14, PG, etc.)
+
 2️⃣ Global Map View	Highlights countries contributing Netflix titles across 39 nations
+
 3️⃣ Release Year Trends	Shows the growth of Netflix titles and duration trends from 1990–2023
+
 4️⃣ Shows Table	Lists detailed information on rating, duration, and title
+
 5️⃣ Country-wise Release Insights	Visualizes top countries like the US, India, and Turkey by total releases
+
 🌍 Key Insights
 
 TV-MA and TV-14 are the most common content ratings globally.
@@ -54,4 +61,5 @@ Gained hands-on experience in storytelling with data.
 This project demonstrates how Power BI can transform raw Netflix data into meaningful business insights — identifying top content regions, popular ratings, and yearly production trends.
 
 📷 Dashboard Preview
+
 https://github.com/tannusingh05/Netflix_Streaming_Dashboard-_Power-BI_Project/blob/main/Snapshort_netflix_dashbord.jpg 
