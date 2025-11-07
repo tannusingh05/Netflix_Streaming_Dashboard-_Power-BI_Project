@@ -54,4 +54,4 @@ Gained hands-on experience in storytelling with data.
 This project demonstrates how Power BI can transform raw Netflix data into meaningful business insights — identifying top content regions, popular ratings, and yearly production trends.
 
 📷 Dashboard Preview
-
+https://github.com/tannusingh05/Netflix_Streaming_Dashboard-_Power-BI_Project/blob/main/Snapshort_netflix_dashbord.jpg 
